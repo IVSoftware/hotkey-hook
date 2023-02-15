@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotkey-hook", "hotkey-hook\hotkey-hook.csproj", "{69FB742B-4575-453C-AD71-E0F3BBA0CD76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69FB742B-4575-453C-AD71-E0F3BBA0CD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FB742B-4575-453C-AD71-E0F3BBA0CD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FB742B-4575-453C-AD71-E0F3BBA0CD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FB742B-4575-453C-AD71-E0F3BBA0CD76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FCCA1CD-EE81-48D4-B031-6F58A9DE9F2D}
+	EndGlobalSection
+EndGlobal
